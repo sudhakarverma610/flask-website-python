@@ -1,0 +1,22 @@
+
+{
+  "params":
+  {
+  "local_server":"True",
+  "local_uri":"mysql://root:@localhost/blog",
+  "prod_uri":"mysql://root:@localhost/blog",
+  "fb_url":"https://facebook.com/sudhakarverma",
+  "gt_url":"https://github.com",
+  "tw_url":"https://twitter.com",
+  "blog_name":"Student Blog",
+  "tagline":"A Blog liked by Students",
+  "gmail_username":"sudhakarverma610@gmail.com",
+  "gmail_password":"7052386591",
+    "about_text":"my name is Sudhakar and I am student of MCA of Future college Bareilly",
+    "no_of_posts":1,
+    "adminusername":"sudha",
+    "adminpassword":"sudha",
+    "upload_location":"C:\\Users\\Administrator\\PycharmProjects\\blog\\static\\upload_image"
+
+  }
+}
